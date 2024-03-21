@@ -10,8 +10,7 @@ public class sentinel {
         days = Integer.parseInt(System.console().readLine());
 
         //loop to calculate total sales
-        for (int i = 1; i <= days; i++){
-            System.out.println("Enter the sales for day " + i);
+       
             
         //initialize sales value    
             sales = 
